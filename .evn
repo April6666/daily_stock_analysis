@@ -486,5 +486,4 @@ ADMIN_AUTH_ENABLED=false
 # 东财接口补丁：东财/Efinance/Akshare 东方财富接口频繁失败（RemoteDisconnected、连接被关闭）时建议开启
 # 开启后会注入 NID 令牌与随机 User-Agent，降低被东财限流概率
 # ENABLE_EASTMONEY_PATCH=false
-# 填入你获取的 Google Gemini Key
-GEMINI_API_KEY=AIzaSyDvrp7WIJN52b5VB777oZqOlg4mQweJLVY
+
